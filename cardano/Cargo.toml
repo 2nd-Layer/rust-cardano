@@ -14,7 +14,7 @@ keywords = [ "Cardano", "Wallet", "Crypto" ]
 [build-dependencies]
 
 [dependencies]
-cryptoxide = "0.1"
+cryptoxide = "0.4"
 cbor_event = "^2.1.1"
 chain-core = { path = "../chain-core" }
 
