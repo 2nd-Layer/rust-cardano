@@ -10,7 +10,7 @@ authors = [ "Nicolas Di Prima <nicolas.diprima@iohk.io>"
 edition = "2018"
 
 [dependencies]
-cfg-if = "0.1"
+cfg-if = "1.0"
 quickcheck = { version = "0.8", optional = true }
 
 [dev-dependencies]
