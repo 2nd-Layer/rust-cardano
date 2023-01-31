@@ -13,5 +13,5 @@ edition = "2018"
 
 [dependencies]
 chain-core = { path = "../chain-core" }
-bytes = "0.4"
+bytes = "1.4"
 futures = "0.1"
