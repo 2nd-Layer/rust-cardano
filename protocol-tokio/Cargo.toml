@@ -24,4 +24,4 @@ chain-core = { path = "../chain-core" }
 [dev-dependencies]
 quickcheck = "^0.7.1"
 env_logger = "^0.5.13"
-tokio      = "^0.1.11"
+tokio      = "^1.26.0"
